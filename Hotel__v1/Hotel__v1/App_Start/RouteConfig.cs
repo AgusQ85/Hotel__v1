@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace WebApplication1
+namespace Hotel__v1
 {
     public class RouteConfig
     {
